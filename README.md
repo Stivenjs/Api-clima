@@ -34,8 +34,8 @@ Este proyecto permite consultar el clima en tiempo real para cualquier ciudad in
 
 ## 🔗 Enlaces
 
-- **Demo en vivo**: [https://consultareltiempo.netlify.app] 
-- **Repositorio en GitHub**: [https://github.com/Stivenjs/Api-clima]
+- **Demo en vivo**: https://consultareltiempo.netlify.app
+- **Repositorio en GitHub**: https://github.com/Stivenjs/Api-clima
 
 ## 🤝 Contribuciones
 
